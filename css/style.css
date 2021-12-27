@@ -5,18 +5,15 @@
 }
 
 nav{
-    background-color: black;
+    background-color: yellow;
     height: 70px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    box-shadow: 2px 1px 5px #000;
 }
 
 h1{
     margin-left: 20px;
-    color: white;
-
 }
 
 ul{
@@ -30,8 +27,7 @@ ul{
 ul>li{
     font-size: 20px;
     margin: 0 20px;
-    color: white;
 }
 ul>li:hover{
-    color: blue
+    color: red;
 }
